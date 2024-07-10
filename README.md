@@ -1,9 +1,9 @@
 
 # Título
 
-Spring Config demo.
+Spring Security demo.
 
 
 ## Descripción
 
-Demo de una aplicación construida con Spring Config.
+Demo de una aplicación construida con Spring Security.
